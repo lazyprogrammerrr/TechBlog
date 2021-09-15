@@ -1,0 +1,16 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/tech_blog",
+        "prod_uri":"mysql://root:@localhost/tech_blog",
+        "fb_url":"https://facebook.com",
+        "tw_url":"https://twitter.com",
+        "gh_url":"https://github.com",
+        "gmail_user":"yourusername",
+        "gmail_password":"yourpassword",
+        "no_of_posts":3,
+        "u_name":"demo",
+        "u_pass":"demo",
+        "upload_location":"J:\\tuts\\1\\flask blog\\static\\img"
+    }
+}
